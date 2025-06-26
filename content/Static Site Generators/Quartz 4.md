@@ -13,12 +13,7 @@ Quartz 4 is the one of many [[Static Site Generators/Static Site Generators]].
 ## Features
 
 See [Quartz 4 Feature List](https://quartz.jzhao.xyz/features/).
-## My Thoughts
 
-...
-## Example Sites
-
-...
 ## What I use it for
 
-This [[Concepts/Digital Garden]] is build using [[Knowledge Management Tools/Obsidian]] and Quartz 4.
+This [[Concepts/Digital Garden]] is build using [[Knowledge Management Tools/Obsidian]] and Quartz 4. I synchronize my Obsidian Notes using the [Quarz Syncer](https://saberzero1.github.io/quartz-syncer-docs/) plugin for Obsidian.

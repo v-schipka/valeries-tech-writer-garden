@@ -9,14 +9,15 @@ This is a growing collection of notes, insights, and experiments on technical wr
 
 👉 You can also visit my blog at [https://v-schipka.github.io/)](https://v-schipka.github.io/) for more projects and writing.
 
+---
 ## Latest Updates
 
 Recently Modified:
+- [[index\|index]]
+- [[Static Site Generators/Quartz 4\|Quartz 4]]
 - [[Concepts/7 Action Model\|7 Action Model]]
 - [[Concepts/Code Documentation\|Code Documentation]]
 - [[Concepts/CODEOWNERS\|CODEOWNERS]]
-- [[Concepts/Digital Garden\|Digital Garden]]
-- [[Concepts/Documentation\|Documentation]]
 
 Recently Created:
 - [[Static Site Generators/Quartz 4\|Quartz 4]]
@@ -25,7 +26,7 @@ Recently Created:
 - [[Tools & Scripts/Linkchecker\|Linkchecker]]
 - [[Templates/Tutorials\|Tutorials]]
 
-
+---
 ## Content
 
 ### Concepts
