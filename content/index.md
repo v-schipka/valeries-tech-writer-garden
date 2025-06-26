@@ -60,11 +60,6 @@ Recently Created:
 - [[Editors/WYSIWYM\|WYSIWYM]]
 
 
-### Knowledge Management Tools
-- [[Knowledge Management Tools/GitBook\|GitBook]]
-- [[Knowledge Management Tools/Obsidian\|Obsidian]]
-
-
 ### Markup Languages
 - [[Markup Languages/LaTeX\|LaTeX]]
 - [[Markup Languages/Markdown vs AsciiDoc vs reStructuredText\|Markdown vs AsciiDoc vs reStructuredText]]
@@ -111,6 +106,8 @@ Recently Created:
 - [[Tools & Scripts/Write VS Code Extensions\|Write VS Code Extensions]]
 - [[Tools & Scripts/Linkchecker\|Linkchecker]]
 - [[Tools & Scripts/Useful Tools\|Useful Tools]]
+- [[Tools & Scripts/Obsidian\|Obsidian]]
+- [[Tools & Scripts/GitBook\|GitBook]]
 
 
 ### UX-Writing
