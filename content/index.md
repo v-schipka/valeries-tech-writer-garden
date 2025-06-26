@@ -7,7 +7,7 @@ This is a growing collection of notes, insights, and experiments on technical wr
 
 ![banner](https://raw.githubusercontent.com/v-schipka/images/refs/heads/main/banners/2-desk.jpg)
 
-👉 You can also visit my blog at [https://v-schipka.github.io/)](https://v-schipka.github.io/) for more projects and writing.
+👉 You can also visit my blog at [https://v-schipka.github.io/](https://v-schipka.github.io/) for more projects and writing.
 
 ---
 ## Latest Updates
