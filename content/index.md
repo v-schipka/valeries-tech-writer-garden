@@ -5,19 +5,21 @@
 
 This is a growing collection of notes, insights, and experiments on technical writing in the docs-as-code ecosystem. Here, I explore tools, workflows, and best practices that bridge documentation and development - from version control and static site generators to continuous documentation and content automation.  
 
+👉 You can also visit my blog at [https://v-schipka.github.io/](https://v-schipka.github.io/) for more projects and writing.
+
+
 ![banner](https://raw.githubusercontent.com/v-schipka/images/refs/heads/main/banners/2-desk.jpg)
 
-👉 You can also visit my blog at [https://v-schipka.github.io/](https://v-schipka.github.io/) for more projects and writing.
 
 ---
 ## Latest Updates
 
 Recently Modified:
 - [[index\|index]]
+- [[UX-Writing/UX Writing Checklist\|UX Writing Checklist]]
+- [[UX-Writing/Voice & Tone Design\|Voice & Tone Design]]
 - [[Static Site Generators/Quartz 4\|Quartz 4]]
 - [[Concepts/7 Action Model\|7 Action Model]]
-- [[Concepts/Code Documentation\|Code Documentation]]
-- [[Concepts/CODEOWNERS\|CODEOWNERS]]
 
 Recently Created:
 - [[Static Site Generators/Quartz 4\|Quartz 4]]
