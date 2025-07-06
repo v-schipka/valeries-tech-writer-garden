@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Static Site Generators/Docusaurus.md","cssclasses":""}
+{"publish":true,"permalink":"/Static Site Generators/Docusaurus.md","tags":["static-site-generator"],"cssclasses":""}
 ---
 
 
