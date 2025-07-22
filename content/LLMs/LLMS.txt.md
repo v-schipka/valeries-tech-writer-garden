@@ -3,16 +3,18 @@
 ---
 
 
-An LLMs.txt file lets you set clear rules for AI-driven search engines, similar to robots.txt for search engine crawlers. Like robots.txt, these files are typically located at the root of your domain.
+An LLMs.txt file lets you set clear rules for AI-driven search engines, similar to robots.txt for search engine crawlers. Like robots.txt, these files are typically located at the root of the domain.
 
 Why use LLMs.txt:
-• Maintain control over how your website content is used by AI systems.
-• Communicate clear guidelines to AI platforms about access and permissible use.
-• Tailor permissions for specific AI tools or services.
+- Control how your ([[Concepts/Documentation]]) website content is used by AI systems.
+- Set guidelines to AI platforms about access and permissible use.
+- Give permissions for specific AI tools or services.
 
-llms.txt generator + blog: https://llms-txt.io/
-Samples: https://llmstxt.site/
-More information: https://fusionauth.io/blog/llms-for-docs
+## Resources
+
+- llms.txt generator + blog: https://llms-txt.io/
+- Samples: https://llmstxt.site/
+- More information: https://fusionauth.io/blog/llms-for-docs
 
 > [!tip]
 > You can offer the LLMs.txt file as a download, so that users can feed their LLM to interact with your documentation content.
