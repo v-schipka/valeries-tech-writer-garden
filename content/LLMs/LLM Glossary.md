@@ -3,7 +3,7 @@
 ---
 
 
-**Chunk :**
+**Chunk:**
 Section of content that an LLM can process effectively (LLMs have token limits and chunking makes searching, embedding, and retrieving easier)
 
 **Context Window:**
