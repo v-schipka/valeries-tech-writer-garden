@@ -3,7 +3,10 @@
 ---
 
 
-Prompt Orchestration Markup Language (POML) is a markup language that offers structure, readability, modularity, and maintainability for AI prompt engineering. This is best used in combination with [[LLMs/Retrieval Augmented Generation (RAG)]].
+Prompt Orchestration Markup Language (POML) is a markup language that offers structure, readability, modularity, and maintainability for AI prompt engineering. 
+
+> [!tip]
+> POML is best used in combination with [[LLMs/Retrieval Augmented Generation (RAG)]].
 
 ## Resources
 
@@ -35,6 +38,7 @@ Prompt Orchestration Markup Language (POML) is a markup language that offers str
 
 ## Examples
 
+### General Use
 ``` html
 <poml>
   <role>You are a patient teacher explaining concepts to a 10-year-old.</role>
@@ -49,7 +53,7 @@ Prompt Orchestration Markup Language (POML) is a markup language that offers str
 </poml>
 ```
 
-### Import data from a file
+### Import Data from a File
 
 ```html
 <poml>
@@ -58,7 +62,7 @@ Prompt Orchestration Markup Language (POML) is a markup language that offers str
 </poml>
 ```
 
-### Style class
+### Style Class
 
 ```html
 <poml>
@@ -85,7 +89,15 @@ In a typical RAG pipeline, you have:
 3. **LLM Prompt Execution**
     - POML renders a prompt with `<role>`, `<task>`, `<document>`, etc., which feeds into the LLM.
     
-
+Without POML:
+```
+You are a helpful assistant. Answer the question.
+Documents:
+[doc1] ...
+[doc2] ...
+Question: What are the side effects of Drug X?
+```
+With POML:
 ```html
 <poml>
   <role>You are a medical assistant providing safe, factual answers.</role>
