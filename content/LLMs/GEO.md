@@ -3,7 +3,7 @@
 ---
 
 
-LLM seeding is the practice of publishing content in the formats and places LLMs are most likely to scrape, summarize, and cite. LLM seeding includes:
+Generative Engine Optimization (GEO) or "LLM seeding" is the practice of publishing content in the formats and places LLMs are most likely to scrape, summarize, and cite. LLM seeding includes:
 - What to publish so LLMs actually cite you
 - Where to seed your content for maximum pickup
 - And how to track whether your brand is showing up

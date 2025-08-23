@@ -104,7 +104,7 @@ Recently Created:
 - [[Tools & Scripts/Linkchecker\|Linkchecker]]
 - [[Tools & Scripts/Obsidian\|Obsidian]]
 - [[Tools & Scripts/Terminology Check in Notepad++\|Terminology Check in Notepad++]]
-- [[Tools & Scripts/Write VS Code Extensions\|Write VS Code Extensions]]
+- [[How to Write VS Code Extensions\|Write VS Code Extensions]]
 
 
 ### UX-Writing
