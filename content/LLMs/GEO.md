@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/Seeding Tips.md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/GEO.md","cssclasses":""}
 ---
 
 

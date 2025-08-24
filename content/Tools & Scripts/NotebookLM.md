@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"permalink":"/Tools & Scripts/NotebookLM.md","cssclasses":""}
 ---
+
 NotebookLM is Google’s AI-powered “research assistant”. For this, you upload source data to NotebookLM.
 
 ## Features

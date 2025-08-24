@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Write VS Code Extensions.md","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/How to Write VS Code Extensions.md","cssclasses":""}
 ---
 
 ## Prerequisites

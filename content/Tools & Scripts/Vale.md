@@ -1,9 +1,10 @@
 ---
-publish: true
+{"publish":true,"permalink":"/Tools & Scripts/Vale.md","cssclasses":""}
 ---
 
+
 Vale is an open source style & grammar Linter.
-It enforces style guides and integrates into CI/CD alongside [[MkDocs]] and other [[Static Site Generators]].
+It enforces style guides and integrates into CI/CD alongside [[Static Site Generators/MkDocs]] and other [[Static Site Generators/Static Site Generators]].
 
 ## Resources
 - [Vale Website](https://vale.sh/)
