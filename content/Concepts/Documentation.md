@@ -2,7 +2,7 @@
 {"publish":true,"permalink":"/Concepts/Documentation.md","cssclasses":""}
 ---
 
-Documentation is material that is used to describe, explain or instruct readers about attributes of an object, system or procedure. As a form of knowledge management / organization, documentation can be provided on paper, online, or on digital or analog media. 
+Documentation is material that is used to describe, explain or instruct readers about attributes of an object, system or procedure. As a form of knowledge management / organization, documentation can be provided on paper, online, or on digital or analog media. See also [[Documentation Platforms & Tools]].
 
 My personal leitmotif for writing documentation:
 > "Use as few words as possible, but as many as necessary."
@@ -61,11 +61,11 @@ Writing conventions:
 
 
 Templates for [[Concepts/Topics]]:
-- [[Templates/Tutorials\|Tutorials]]
-- [[Templates/Task Topics\|Task Topics]]
 - [[Templates/Release Notes\|Release Notes]]
 - [[Templates/Reference Articles\|Reference Articles]]
+- [[Templates/Tutorials\|Tutorials]]
 - [[Templates/Overview Pages\|Overview Pages]]
+- [[Templates/Task Topics\|Task Topics]]
 - [[Templates/How-to Articles\|How-to Articles]]
 - [[Templates/Concept Topics\|Concept Topics]]
 
