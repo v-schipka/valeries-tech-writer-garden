@@ -28,9 +28,9 @@ Follow the steps below to publish your MkDocs project with Vercel:
 8. In the project settings, set: ```
 	```
 	Framework Preset: Other
-	Build Command: mkdocs build
+	Build Command: python3 -m mkdocs build
 	Output Directory: site
-	Install Command: pip install -r requirements.txt
+	Install Command: pip3 install -r requirements.txt
 	```
 9. Deploy the Vercel project.
 

@@ -2,7 +2,8 @@
 {"publish":true,"permalink":"/Concepts/LIFT Principle.md","cssclasses":""}
 ---
 
-LIFT is an organization principle for software developers.  It was introduced by Google as part of the [AngularJS](https://github.com/angular/angular.js?ref=dsebastien.net) and [Angular](https://angular.io/?ref=dsebastien.net) style guides. LIFT can be applied to code, personal or work information, Personal Knowledge Management (PKM) and Information Management (IM) in general.
+
+LIFT is an organization principle for software developers.  It was introduced by Google as part of the [AngularJS](https://github.com/angular/angular.js?ref=dsebastien.net) and [Angular](https://angular.io/?ref=dsebastien.net) style guides. LIFT can be applied to code, Personal Knowledge Management (PKM) and Information Management (IM) in general.
 
 LIFT is an acronym for:
 - **L**ocate

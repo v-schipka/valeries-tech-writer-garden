@@ -5,7 +5,7 @@
 
 Virtual environments are self-contained workspaces for projects.
 
-Working with documentation in a docs-as-code environment usually involves [[Static Site Generators/Static Site Generators]] such as [[Static Site Generators/MkDocs]], [[Static Site Generators/Sphinx]], [[Static Site Generators/Hugo]] or [[Static Site Generators/Docusaurus]]. These tools transform plain text files into documentation websites. They usually also come with dependencies - and that's where virtual environment come in.
+Working with documentation in a docs-as-code environment usually involves [[Static Site Generators/Static Site Generators]] such as [[MkDocs] or [[Sphinx]]. These tools transform plain text files into documentation websites. They usually also come with dependencies - and that's where virtual environments come in.
 
 ## Without Virtual Environments
 
