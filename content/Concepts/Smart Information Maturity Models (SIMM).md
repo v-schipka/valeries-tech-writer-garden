@@ -3,7 +3,7 @@
 ---
 
 
-SIMM is a model for evaluating and further developing the quality and intelligence of technical information. The model helps companies assess the "maturity leve" of their technical documentation and improve it with regard to the demands of digital transformation, such as:
+SIMM is a model for evaluating and further developing the quality and intelligence of technical information. The model helps companies assess the "maturity level" of their technical documentation and improve it with regard to the demands of digital transformation, such as:
 
 - Modularization of content
 - Content delivery via smart channels
