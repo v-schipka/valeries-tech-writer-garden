@@ -2,7 +2,7 @@
 {"publish":true,"permalink":"/Static Site Generators/Quartz 4.md","tags":["static-site-generator"],"cssclasses":""}
 ---
 
-Quartz 4 is the one of many [[Static Site Generators/Static Site Generators]]. 
+Quartz 4 is one of many [[Static Site Generators/Static Site Generators]]. 
 Command to run a local preview: `npx quartz build --serve`.
 ## Resources
 
