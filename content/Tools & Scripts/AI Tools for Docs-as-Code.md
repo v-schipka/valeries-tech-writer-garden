@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/AI Tools for Docs-as-Code.md","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/AI Tools for Docs-as-Code.md","created":"2025-06-25T21:24:32.298+02:00","modified":"2025-06-26T20:58:52.784+02:00","published":"2025-06-26T20:58:52.784+02:00","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Templates/Overview Pages.md","tags":["template"],"cssclasses":""}
+{"publish":true,"permalink":"/Templates/Overview Pages.md","created":"2025-06-25T21:24:32.287+02:00","modified":"2025-06-26T20:59:27.831+02:00","published":"2025-06-26T20:59:27.831+02:00","tags":["template"],"cssclasses":""}
 ---
 
 Source: [[Static Site Generators/Writerside]]

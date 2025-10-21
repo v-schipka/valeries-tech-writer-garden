@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Digital Garden.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Digital Garden.md","created":"2025-06-25T21:24:32.250+02:00","modified":"2025-06-26T21:01:23.488+02:00","published":"2025-06-26T21:01:23.488+02:00","cssclasses":""}
 ---
 
 

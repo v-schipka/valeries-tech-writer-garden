@@ -1,9 +1,9 @@
 ---
-{"publish":true,"permalink":"/Markup Languages/Markdown.md","tags":["markup-lang"],"cssclasses":""}
+{"publish":true,"permalink":"/Markup Languages/Markdown.md","created":"2025-06-25T21:24:32.260+02:00","modified":"2025-06-26T21:00:26.561+02:00","published":"2025-06-26T21:00:26.561+02:00","tags":["markup-lang"],"cssclasses":""}
 ---
 
 
-Markdown is a lightweight markup language that can be use to add formatting elements to plaintext text documents. The Markdown syntax in Markdown-formatted files (.md) indicates which words and phrases should look different. It is often used in [[Editors/WYSIWYM]] editors. 
+Markdown is a lightweight markup language that can be use to add formatting elements to plaintext text documents. The Markdown syntax in Markdown-formatted files (.md) indicates which words and phrases should look different. It is often used in [[Concepts/WYSIWYM]] editors. 
 
 - Can be used to create websites, documents, notes, books, presentations, email messages, and technical [[Concepts/Documentation]].
 - Is portable and platform independent. Files containing Markdown-formatted text can be opened using virtually any application and on any device running any operating system.
@@ -36,4 +36,4 @@ Example Flavours:
 
 ## What I use it for
 
-I use Markdown files for notes in [[Knowledge Management Tools/Obsidian]] and in the context of [[Static Site Generators/Static Site Generators]], e.g. in combination with [[Static Site Generators/MkDocs]] to create online documentations and in combination with [[Static Site Generators/Hugo]] to write a blog.
+I use Markdown files for notes in [[Tools & Scripts/Obsidian]] and in the context of [[Static Site Generators/Static Site Generators]], e.g. in combination with [[Static Site Generators/MkDocs]] to create online documentations and in combination with [[Static Site Generators/Hugo]] to write a blog.

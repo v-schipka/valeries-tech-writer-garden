@@ -1,9 +1,9 @@
 ---
-{"publish":true,"permalink":"/Markup Languages/LaTeX.md","tags":["editor","markup-lang"],"cssclasses":""}
+{"publish":true,"permalink":"/Markup Languages/LaTeX.md","created":"2025-06-25T21:24:32.256+02:00","modified":"2025-06-26T21:00:29.529+02:00","published":"2025-06-26T21:00:29.529+02:00","tags":["editor","markup-lang"],"cssclasses":""}
 ---
 
 
-LaTeX is a software system for typesetting documents. LaTeX uses a [[Editors/WYSIWYM]] approach. The writer uses markup tagging conventions to define the general structure of a document, to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file, e.g. .pdf.
+LaTeX is a software system for typesetting documents. LaTeX uses a [[Concepts/WYSIWYM]] approach. The writer uses markup tagging conventions to define the general structure of a document, to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MiKTeX is used to produce an output file, e.g. .pdf.
 
 LaTeX is widely used in academia for the communication and publication of scientific documents and technical note-taking in many fields, owing partially to its support for complex mathematical notation.
 

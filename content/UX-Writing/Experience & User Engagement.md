@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/Experience & User Engagement.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/Experience & User Engagement.md","created":"2024-08-24T14:02:59.512+02:00","modified":"2025-06-26T20:58:38.792+02:00","published":"2025-06-26T20:58:38.792+02:00","cssclasses":""}
 ---
 
 

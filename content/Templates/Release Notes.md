@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Templates/Release Notes.md","tags":["template"],"cssclasses":""}
+{"publish":true,"permalink":"/Templates/Release Notes.md","created":"2025-06-25T21:24:32.289+02:00","modified":"2025-06-26T20:59:22.681+02:00","published":"2025-06-26T20:59:22.681+02:00","tags":["template"],"cssclasses":""}
 ---
 
 ```markdown

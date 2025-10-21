@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/7 Action Model.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/7 Action Model.md","created":"2025-06-25T21:24:32.219+02:00","modified":"2025-06-26T21:01:31.192+02:00","published":"2025-06-26T21:01:31.192+02:00","cssclasses":""}
 ---
 
 

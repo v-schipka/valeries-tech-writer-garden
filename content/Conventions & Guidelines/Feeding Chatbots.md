@@ -1,10 +1,10 @@
 ---
-{"publish":true,"permalink":"/Conventions & Guidelines/Feeding Chatbots.md","tags":["conventions"],"cssclasses":""}
+{"publish":true,"permalink":"/Conventions & Guidelines/Feeding Chatbots.md","created":"2025-06-25T21:24:32.233+02:00","modified":"2025-06-26T21:01:01.641+02:00","published":"2025-06-26T21:01:01.641+02:00","tags":["conventions"],"cssclasses":""}
 ---
 
 [[Concepts/Documentation]] can be used to feed chatbots. While I personally do not like them, integrating chatbots in online documentation usually enhances interactivity with users. So, here are some tips on how to make documentation more chatbot-friendly / easier to parse. 
 
-See also [[SEO/LLMS.txt]].
+See also [[LLMs/LLMS.txt]].
 ## Use Clear and Consistent Structure
 
 - **Headings and Subheadings**: Clearly define sections with meaningful, hierarchical headings (`h1`, `h2`, `h3`, etc.). This helps the chatbot understand the structure and purpose of different sections.

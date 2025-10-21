@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/LLMS.txt.md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/LLMS.txt.md","created":"2025-07-18T19:08:03.640+02:00","modified":"2025-07-22T08:14:19.866+02:00","published":"2025-07-22T08:14:19.866+02:00","cssclasses":""}
 ---
 
 

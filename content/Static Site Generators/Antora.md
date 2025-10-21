@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Static Site Generators/Antora.md","tags":["static-site-generator"],"cssclasses":""}
+{"publish":true,"permalink":"/Static Site Generators/Antora.md","created":"2025-06-25T21:24:32.272+02:00","modified":"2025-07-06T14:56:57.560+02:00","published":"2025-07-06T14:56:57.560+02:00","tags":["static-site-generator"],"cssclasses":""}
 ---
 
 [Antora](https://antora.org/) is a [[Static Site Generators/Static Site Generators]] that uses the markup language AsciiDoc. For information on AsciiDoc, see [[Markup Languages/Markdown vs AsciiDoc vs reStructuredText]].

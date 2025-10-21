@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/UX Writing Checklist.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/UX Writing Checklist.md","created":"2024-07-06T11:54:39.018+02:00","modified":"2025-06-26T21:12:48.101+02:00","published":"2025-06-26T21:12:48.101+02:00","cssclasses":""}
 ---
 
 Always check if your texts are:

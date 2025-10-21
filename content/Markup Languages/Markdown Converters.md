@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Markup Languages/Markdown Converters.md","cssclasses":""}
+{"publish":true,"permalink":"/Markup Languages/Markdown Converters.md","created":"2025-06-25T21:24:32.257+02:00","modified":"2025-06-26T21:00:23.697+02:00","published":"2025-06-26T21:00:23.697+02:00","cssclasses":""}
 ---
 
 

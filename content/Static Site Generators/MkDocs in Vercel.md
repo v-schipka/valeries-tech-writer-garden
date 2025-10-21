@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Static Site Generators/MkDocs in Vercel.md","cssclasses":""}
+{"publish":true,"permalink":"/Static Site Generators/MkDocs in Vercel.md","created":"2025-06-25T21:24:32.277+02:00","modified":"2025-09-14T15:38:17.987+02:00","published":"2025-09-14T15:38:17.987+02:00","cssclasses":""}
 ---
 
 Vercel is a shared hosting platform for websites like the ones created by  [[Static Site Generators/MkDocs]] and other [[Static Site Generators/Static Site Generators]]. 

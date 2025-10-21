@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Smart Information Maturity Models (SIMM).md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Smart Information Maturity Models (SIMM).md","created":"2025-06-25T21:24:32.225+02:00","modified":"2025-09-27T18:28:44.867+02:00","published":"2025-09-27T18:28:44.867+02:00","cssclasses":""}
 ---
 
 

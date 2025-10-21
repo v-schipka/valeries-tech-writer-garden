@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SEO/Indexing.md","tags":["websites-misc"],"cssclasses":""}
+{"publish":true,"permalink":"/SEO/Indexing.md","created":"2025-06-25T21:24:32.266+02:00","modified":"2025-06-26T21:00:10.897+02:00","published":"2025-06-26T21:00:10.897+02:00","tags":["websites-misc"],"cssclasses":""}
 ---
 
 For a website to show up in a search engines (e.g. Google, Bing, etc.), the website needs to be indexed by the search engine. This can take between a few days, weeks to even months.

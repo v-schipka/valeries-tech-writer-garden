@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/GEO.md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/GEO.md","created":"2025-07-18T19:38:55.284+02:00","modified":"2025-08-24T12:18:09.453+02:00","published":"2025-08-24T12:18:09.453+02:00","cssclasses":""}
 ---
 
 

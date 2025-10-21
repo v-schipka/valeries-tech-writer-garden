@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/NotebookLM.md","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/NotebookLM.md","created":"2025-08-24T12:19:57.062+02:00","modified":"2025-08-24T12:06:44.948+02:00","published":"2025-08-24T12:06:44.948+02:00","cssclasses":""}
 ---
 
 NotebookLM is Google’s AI-powered “research assistant”. For this, you upload source data to NotebookLM.

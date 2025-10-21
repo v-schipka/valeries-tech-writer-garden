@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/Samples.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/Samples.md","created":"2024-08-24T14:49:14.523+02:00","modified":"2025-06-26T20:58:33.167+02:00","published":"2025-06-26T20:58:33.167+02:00","cssclasses":""}
 ---
 
 A compilation of some random examples for good and bad [[UX-Writing/Microcopy]].

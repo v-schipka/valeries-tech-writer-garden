@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Software Testing (ISTQB).md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Software Testing (ISTQB).md","created":"2024-09-01T15:49:30.875+02:00","modified":"2025-06-26T21:01:13.777+02:00","published":"2025-06-26T21:01:13.777+02:00","cssclasses":""}
 ---
 
 According to the International Software Testing Qualifications Board (ISTQB), software testing is defined as:

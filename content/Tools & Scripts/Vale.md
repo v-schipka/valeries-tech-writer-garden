@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Vale.md","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Vale.md","created":"2025-08-24T12:06:44.950+02:00","modified":"2025-08-24T12:06:44.950+02:00","published":"2025-08-24T12:06:44.950+02:00","cssclasses":""}
 ---
 
 

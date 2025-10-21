@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/Microcopy.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/Microcopy.md","created":"2024-07-09T16:51:08.431+02:00","modified":"2025-06-26T20:58:36.049+02:00","published":"2025-06-26T20:58:36.049+02:00","cssclasses":""}
 ---
 
 

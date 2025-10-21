@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/Usability.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/Usability.md","created":"2024-08-26T18:04:56.347+02:00","modified":"2025-06-26T20:58:28.519+02:00","published":"2025-06-26T20:58:28.519+02:00","cssclasses":""}
 ---
 
 Usability focuses on how [[UX-Writing/Microcopy]] can be used to guide users and make tasks easier.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Self-Hosted Wikis/Wiki.js.md","cssclasses":""}
+{"publish":true,"permalink":"/Self-Hosted Wikis/Wiki.js.md","created":"2025-07-06T15:19:57.620+02:00","modified":"2025-07-06T15:38:56.631+02:00","published":"2025-07-06T15:38:56.631+02:00","cssclasses":""}
 ---
 
 [Wiki.js](https://js.wiki/)  is a self-hosted open-sourcewiki platform built with *Node.js*.

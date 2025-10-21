@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Static Site Generators/Quartz 4.md","tags":["static-site-generator"],"cssclasses":""}
+{"publish":true,"permalink":"/Static Site Generators/Quartz 4.md","created":"2025-06-25T21:28:56.032+02:00","modified":"2025-09-27T18:33:11.189+02:00","published":"2025-09-27T18:33:11.189+02:00","tags":["static-site-generator"],"cssclasses":""}
 ---
 
 Quartz 4 is one of many [[Static Site Generators/Static Site Generators]]. 

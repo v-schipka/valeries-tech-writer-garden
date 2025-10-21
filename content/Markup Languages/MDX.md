@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Markup Languages/MDX.md","cssclasses":""}
+{"publish":true,"permalink":"/Markup Languages/MDX.md","created":"2025-06-25T21:24:32.260+02:00","modified":"2025-06-26T21:00:18.552+02:00","published":"2025-06-26T21:00:18.552+02:00","cssclasses":""}
 ---
 
 [MDX](https://mdxjs.com/) is a format that blends JSX (a JavaScript extension) with [[Markup Languages/Markdown]] content. Using MDX you can import components like interactive charts or alerts, and embed them within your Markdown content. For mroe information, see [MDX: Getting Started](https://mdxjs.com/docs/getting-started/).

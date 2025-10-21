@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Conventions & Guidelines/Video-Tutorials.md","tags":["conventions"],"cssclasses":""}
+{"publish":true,"permalink":"/Conventions & Guidelines/Video-Tutorials.md","created":"2025-06-25T21:24:32.237+02:00","modified":"2025-06-26T21:00:52.104+02:00","published":"2025-06-26T21:00:52.104+02:00","tags":["conventions"],"cssclasses":""}
 ---
 
 

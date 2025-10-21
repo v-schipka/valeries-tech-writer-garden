@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/SUI Graphics.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/SUI Graphics.md","created":"2025-06-25T21:24:32.226+02:00","modified":"2025-06-26T21:01:11.296+02:00","published":"2025-06-26T21:01:11.296+02:00","cssclasses":""}
 ---
 
 Simplified User-Interface (SUI) graphics visually simplify unimportant details in UI [[Conventions & Guidelines/Screenshots]]. This is done to not overwhelm users with too much irrelevant information. SUI graphics follow the K.I.S.S. principle: „Keep it simple, Stupid!“

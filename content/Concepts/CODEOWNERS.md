@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/CODEOWNERS.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/CODEOWNERS.md","created":"2025-06-25T21:24:32.221+02:00","modified":"2025-06-26T21:01:26.312+02:00","published":"2025-06-26T21:01:26.312+02:00","cssclasses":""}
 ---
 
 In **docs-as-code** workflows using **static site generators** (like Jekyll, [[Static Site Generators/Hugo]], Docusaurus, [[Static Site Generators/MkDocs]], etc.), the term **CODEOWNERS** refers to a special file (named `CODEOWNERS`) used in **Git repositories**, particularly with **GitHub**, to define who is responsible for specific files or directories in the codebase—including documentation files.

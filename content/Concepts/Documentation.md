@@ -1,8 +1,8 @@
 ---
-{"publish":true,"permalink":"/Concepts/Documentation.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Documentation.md","created":"2025-06-25T21:24:32.222+02:00","modified":"2025-08-25T18:07:45.353+02:00","published":"2025-08-25T18:07:45.353+02:00","cssclasses":""}
 ---
 
-Documentation is material that is used to describe, explain or instruct readers about attributes of an object, system or procedure. As a form of knowledge management / organization, documentation can be provided on paper, online, or on digital or analog media. See also [[Documentation Platforms & Tools]].
+Documentation is material that is used to describe, explain or instruct readers about attributes of an object, system or procedure. As a form of knowledge management / organization, documentation can be provided on paper, online, or on digital or analog media. See also [[Concepts/Documentation Platforms & Tools]].
 
 My personal leitmotif for writing documentation:
 > "Use as few words as possible, but as many as necessary."
@@ -51,20 +51,20 @@ Resources:
 - [Tekom (Gesellschaft für technische Dokumentation)](https://www.tekom.de/)
 
 Writing conventions:
-- [[Conventions & Guidelines/Video-Tutorials\|Video-Tutorials]]
 - [[Conventions & Guidelines/Screenshots\|Screenshots]]
-- [[Conventions & Guidelines/Placeholders\|Placeholders]]
+- [[Conventions & Guidelines/Video-Tutorials\|Video-Tutorials]]
 - [[Conventions & Guidelines/Notes & Warning\|Notes & Warning]]
 - [[Conventions & Guidelines/Feeding Chatbots\|Feeding Chatbots]]
 - [[Conventions & Guidelines/Animations\|Animations]]
+- [[Conventions & Guidelines/Placeholders\|Placeholders]]
 - [[Concepts/Topics\|Topics]]
 
 
 Templates for [[Concepts/Topics]]:
 - [[Templates/Release Notes\|Release Notes]]
+- [[Templates/Overview Pages\|Overview Pages]]
 - [[Templates/Reference Articles\|Reference Articles]]
 - [[Templates/Tutorials\|Tutorials]]
-- [[Templates/Overview Pages\|Overview Pages]]
 - [[Templates/Task Topics\|Task Topics]]
 - [[Templates/How-to Articles\|How-to Articles]]
 - [[Templates/Concept Topics\|Concept Topics]]

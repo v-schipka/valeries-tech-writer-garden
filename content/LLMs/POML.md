@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/POML.md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/POML.md","created":"2025-08-19T20:20:04.861+02:00","modified":"2025-08-19T21:03:56.533+02:00","published":"2025-08-19T21:03:56.533+02:00","cssclasses":""}
 ---
 
 

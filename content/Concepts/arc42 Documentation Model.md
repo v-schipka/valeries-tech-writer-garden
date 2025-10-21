@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/arc42 Documentation Model.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/arc42 Documentation Model.md","created":"2025-08-25T18:06:53.602+02:00","modified":"2025-08-25T18:08:18.979+02:00","published":"2025-08-25T18:08:18.979+02:00","cssclasses":""}
 ---
 
 The arc42 documentation model is an open template for documenting software and system architectures.  It was developed by Gernot Starke and Peter Hruschka and has become a de facto standard for architecture documentation in German-speaking countries.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SEO/schema.org in MkDocs.md","cssclasses":""}
+{"publish":true,"permalink":"/SEO/schema.org in MkDocs.md","created":"2025-06-25T21:24:32.268+02:00","modified":"2025-06-26T21:00:06.304+02:00","published":"2025-06-26T21:00:06.304+02:00","cssclasses":""}
 ---
 
 Schema.org provides a standardized vocabulary of tags (structured data) that you can add to your HTML to help search engines understand the content of your pages.

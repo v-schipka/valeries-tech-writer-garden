@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Linkchecker.md","tags":["websites-misc"],"cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Linkchecker.md","created":"2025-06-25T21:24:32.295+02:00","modified":"2025-06-26T20:59:07.207+02:00","published":"2025-06-26T20:59:07.207+02:00","tags":["websites-misc"],"cssclasses":""}
 ---
 
 LinkChecker checks links in web documents or full websites. This check validates recursively all pages starting with `http://www.example.org/myhomepage/`. Additionally, all external links pointing outside of www.example.org will be checked but not recursed into. For more information, see [LinkChecker Website](https://linkchecker.github.io/linkchecker/install.html).

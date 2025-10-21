@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/UX-Writing/Voice & Tone Design.md","cssclasses":""}
+{"publish":true,"permalink":"/UX-Writing/Voice & Tone Design.md","created":"2024-08-20T11:05:23.612+02:00","modified":"2025-06-26T21:12:41.598+02:00","published":"2025-06-26T21:12:41.598+02:00","cssclasses":""}
 ---
 
 

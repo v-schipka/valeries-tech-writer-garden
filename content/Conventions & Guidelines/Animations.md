@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Conventions & Guidelines/Animations.md","tags":["conventions"],"cssclasses":""}
+{"publish":true,"permalink":"/Conventions & Guidelines/Animations.md","created":"2025-06-25T21:24:32.232+02:00","modified":"2025-06-26T21:01:03.928+02:00","published":"2025-06-26T21:01:03.928+02:00","tags":["conventions"],"cssclasses":""}
 ---
 
 

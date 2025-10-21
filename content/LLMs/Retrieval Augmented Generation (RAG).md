@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/Retrieval Augmented Generation (RAG).md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/Retrieval Augmented Generation (RAG).md","created":"2025-07-18T19:08:03.642+02:00","modified":"2025-07-20T21:33:00.347+02:00","published":"2025-07-20T21:33:00.347+02:00","cssclasses":""}
 ---
 
 

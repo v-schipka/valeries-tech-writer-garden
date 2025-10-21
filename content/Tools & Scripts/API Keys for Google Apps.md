@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/API Keys for Google Apps.md","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/API Keys for Google Apps.md","created":"2025-01-20T18:44:07.185+01:00","modified":"2025-06-26T20:59:15.088+02:00","published":"2025-06-26T20:59:15.088+02:00","cssclasses":""}
 ---
 
 

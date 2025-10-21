@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Help Authoring Tools/Decker.md","cssclasses":""}
+{"publish":true,"permalink":"/Help Authoring Tools/Decker.md","created":"2025-06-29T18:26:15.390+02:00","modified":"2025-06-29T18:31:44.922+02:00","published":"2025-06-29T18:31:44.922+02:00","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/LLM Glossary.md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/LLM Glossary.md","created":"2025-07-18T19:08:03.637+02:00","modified":"2025-08-19T20:21:47.497+02:00","published":"2025-08-19T20:21:47.497+02:00","cssclasses":""}
 ---
 
 

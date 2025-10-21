@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Self-Hosted Wikis/BookStack.md","cssclasses":""}
+{"publish":true,"permalink":"/Self-Hosted Wikis/BookStack.md","created":"2025-07-06T14:10:46.888+02:00","modified":"2025-07-06T15:14:47.671+02:00","published":"2025-07-06T15:14:47.671+02:00","cssclasses":""}
 ---
 
 [BookStack](https://www.bookstackapp.com/) is an open-source, self-hosted [[Concepts/Documentation]] platform. It’s a dynamic web application (PHP + MySQL), where users can edit content in a [[Concepts/WYSIWYG]] or [[Markup Languages/Markdown]] editor.

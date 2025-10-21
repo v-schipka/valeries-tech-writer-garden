@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/Knowledge Graph (KG).md","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/Knowledge Graph (KG).md","created":"2025-07-18T19:08:03.636+02:00","modified":"2025-07-20T21:32:23.616+02:00","published":"2025-07-20T21:32:23.616+02:00","cssclasses":""}
 ---
 
 

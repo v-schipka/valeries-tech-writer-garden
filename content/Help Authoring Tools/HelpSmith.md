@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Help Authoring Tools/HelpSmith.md","tags":["editor"],"cssclasses":""}
+{"publish":true,"permalink":"/Help Authoring Tools/HelpSmith.md","created":"2025-06-25T21:24:32.240+02:00","modified":"2025-06-26T21:00:47.953+02:00","published":"2025-06-26T21:00:47.953+02:00","tags":["editor"],"cssclasses":""}
 ---
 
 [HelpSmith](https://www.helpsmith.com/) is a software that is used to create [[Concepts/Documentation]] in various formats, such as HTML Help (CHM), Web Help (HTML-based help system), PDF, ePub, and [[Markup Languages/Markdown]]. HelpSmith uses the [[Concepts/WYSIWYG]] approach. 

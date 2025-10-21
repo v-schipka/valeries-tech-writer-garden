@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Static Site Generators/Sphinx.md","tags":["static-site-generator"],"cssclasses":""}
+{"publish":true,"permalink":"/Static Site Generators/Sphinx.md","created":"2025-06-25T21:24:32.279+02:00","modified":"2025-06-26T20:59:42.049+02:00","published":"2025-06-26T20:59:42.049+02:00","tags":["static-site-generator"],"cssclasses":""}
 ---
 
 [Sphinx](https://www.sphinx-doc.org/en/master/) is one of many [[Static Site Generators/Static Site Generators]] that focus on [[Concepts/Documentation]]. Sphinx uses reStruturedText and/or [[Markup Languages/Markdown]] files to build a local html website. 

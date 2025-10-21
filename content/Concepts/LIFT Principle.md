@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/LIFT Principle.md","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/LIFT Principle.md","created":"2025-09-27T13:55:59.172+02:00","modified":"2025-09-27T18:09:01.849+02:00","published":"2025-09-27T18:09:01.849+02:00","cssclasses":""}
 ---
 
 

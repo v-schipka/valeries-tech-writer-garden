@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/SaaS Documentation Platforms/GitBook.md","cssclasses":""}
+{"publish":true,"permalink":"/SaaS Documentation Platforms/GitBook.md","created":"2025-06-25T21:24:32.251+02:00","modified":"2025-07-06T14:44:33.285+02:00","published":"2025-07-06T14:44:33.285+02:00","cssclasses":""}
 ---
 
 [GitBook](https://www.gitbook.com/) is a [[Markup Languages/Markdown]] based knowledge management / [[Concepts/Documentation]] tool.

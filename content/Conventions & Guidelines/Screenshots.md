@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Conventions & Guidelines/Screenshots.md","tags":["conventions"],"cssclasses":""}
+{"publish":true,"permalink":"/Conventions & Guidelines/Screenshots.md","created":"2025-06-25T21:24:32.235+02:00","modified":"2025-06-26T21:00:54.480+02:00","published":"2025-06-26T21:00:54.480+02:00","tags":["conventions"],"cssclasses":""}
 ---
 
 
