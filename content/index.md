@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/index.md","title":"Welcome to My Digital Garden 🌱","created":"2025-06-25T20:41:53.000+02:00","modified":"2025-10-21T14:11:39.838+02:00","published":"2025-10-21T14:11:39.838+02:00","cssclasses":""}
+{"publish":true,"permalink":"/index.md","title":"Welcome to My Digital Garden 🌱","created":"2025-06-25T20:41:53.000+02:00","modified":"2025-10-21T14:16:17.150+02:00","published":"2025-10-21T14:16:17.150+02:00","cssclasses":""}
 ---
 
 This is a growing collection of notes, insights, and experiments on technical writing in the docs-as-code ecosystem. Here, I explore tools, workflows, and best practices that bridge documentation and development - from version control and static site generators to continuous documentation and content automation.  

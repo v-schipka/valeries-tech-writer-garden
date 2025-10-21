@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Documentation Platforms & Tools.md","created":"2025-07-06T14:48:18.232+02:00","modified":"2025-07-06T16:52:19.326+02:00","published":"2025-07-06T16:52:19.326+02:00","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Documentation Platforms & Tools.md","created":"2025-07-06T14:48:18.232+02:00","modified":"2025-10-21T15:29:19.938+02:00","published":"2025-10-21T15:29:19.938+02:00","cssclasses":""}
 ---
 
 
@@ -79,6 +79,8 @@ Examples:
 - [Help+Manual](https://www.helpandmanual.com/) – Versatile help authoring, many export formats.
 - [Adobe RoboHelp](https://www.adobe.com/products/robohelp.html) – Industry-standard, commercial solution.
 - [Doc-O-Matic](https://www.doc-o-matic.com/de/) – Documentation generator for developers.
+
+Also refer to [# 10 Best RoboHelp Alternatives and Competitors for 2025](https://www.proprofskb.com/blog/robohelp-alternatives/)
 
 ## Component Content Management Systems (CCMS)
 
