@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Documentation.md","created":"2025-06-25T21:24:32.222+02:00","modified":"2025-08-25T18:07:45.353+02:00","published":"2025-08-25T18:07:45.353+02:00","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Documentation.md","created":"2025-06-25T21:24:32.222+02:00","modified":"2025-11-15T10:46:31.938+01:00","published":"2025-11-15T10:46:31.938+01:00","cssclasses":""}
 ---
 
 Documentation is material that is used to describe, explain or instruct readers about attributes of an object, system or procedure. As a form of knowledge management / organization, documentation can be provided on paper, online, or on digital or analog media. See also [[Concepts/Documentation Platforms & Tools]].
@@ -8,64 +8,61 @@ My personal leitmotif for writing documentation:
 > "Use as few words as possible, but as many as necessary."
 
 
->[!info]- Types of Documentation
->**Technical Documentation**
->
->- **Purpose**: Detailed documentation aimed at developers, engineers, or technically savvy users, explaining how to build, maintain, or modify products.
->- **Audience**: Developers, IT professionals, system administrators.
->- **Examples**: API documentation, system architecture docs, code documentation.
->
->**Internal Documentation**
->
->- **Purpose**: Maintains institutional knowledge within an organization, including best practices, project details, and internal procedures.
->- **Audience**: Employees, internal teams.
->- **Examples**: Wiki pages, internal guides, project documentation.
->
->**Policy Documentation**
->
->- **Purpose**: Outlines organizational policies, compliance guidelines, and rules.
->- **Audience**: Employees, stakeholders, regulatory bodies.
->- **Examples**: Privacy policies, HR policies, security policies.
->
->**Process Documentation**
->
->- **Purpose**: Outlines the steps, policies, and procedures involved in business or operational processes.
->- **Audience**: Internal staff, managers, or compliance officers.
->- **Examples**: SOPs (Standard Operating Procedures), process maps.
->
->**Legal Documentation**
->
->- **Purpose**: Contains legal agreements, terms of service, and contracts.
->- **Audience**: Customers, partners, legal teams.
->- **Examples**: Terms of service, EULAs (End-User License Agreements), contracts.
->
->**Pharmaceutical Documentation**
->
->- **Purpose**: Ensures that medications are used safely and effectively, meet regulatory standards, and provide critical information to both patients and healthcare professionals.
->- **Audience**: Depending on the type, the audience can include patients, caregivers, healthcare professionals, regulatory bodies, and pharmaceutical companies.
->- **Examples**: Ranging from patient leaflets and medication guides to clinical study reports and regulatory submissions, these documents are integral to the lifecycle of a medication.
+## Types of Documentation
 
-Resources:
+**Technical Documentation:**
+- **Purpose**: Detailed documentation aimed at developers, engineers, or technically savvy users, explaining how to build, maintain, or modify products.
+- **Audience**: Developers, IT professionals, system administrators.
+- **Examples**: API documentation, system architecture docs, code documentation.
+
+**Internal Documentation:**
+- **Purpose**: Maintains institutional knowledge within an organization, including best practices, project details, and internal procedures.
+- **Audience**: Employees, internal teams.
+- **Examples**: Wiki pages, internal guides, project documentation.
+
+**Policy Documentation:**
+- **Purpose**: Outlines organizational policies, compliance guidelines, and rules.
+- **Audience**: Employees, stakeholders, regulatory bodies.
+- **Examples**: Privacy policies, HR policies, security policies.
+
+**Process Documentation:**
+- **Purpose**: Outlines the steps, policies, and procedures involved in business or operational processes.
+- **Audience**: Internal staff, managers, or compliance officers.
+- **Examples**: SOPs (Standard Operating Procedures), process maps.
+
+**Legal Documentation:**
+- **Purpose**: Contains legal agreements, terms of service, and contracts.
+- **Audience**: Customers, partners, legal teams.
+- **Examples**: Terms of service, EULAs (End-User License Agreements), contracts.
+
+**Pharmaceutical Documentation:**
+- **Purpose**: Ensures that medications are used safely and effectively, meet regulatory standards, and provide critical information to both patients and healthcare professionals.
+- **Audience**: Depending on the type, the audience can include patients, caregivers, healthcare professionals, regulatory bodies, and pharmaceutical companies.
+- **Examples**: Ranging from patient leaflets and medication guides to clinical study reports and regulatory submissions, these documents are integral to the lifecycle of a medication.
+
+## Resources
 
 - [WriteTheDocs Community](https://www.writethedocs.org/guide/)
 - [Tekom (Gesellschaft für technische Dokumentation)](https://www.tekom.de/)
 
+#### Personal Resources
+
 Writing conventions:
-- [[Conventions & Guidelines/Screenshots\|Screenshots]]
 - [[Conventions & Guidelines/Video-Tutorials\|Video-Tutorials]]
+- [[Conventions & Guidelines/Screenshots\|Screenshots]]
+- [[Conventions & Guidelines/Placeholders\|Placeholders]]
 - [[Conventions & Guidelines/Notes & Warning\|Notes & Warning]]
 - [[Conventions & Guidelines/Feeding Chatbots\|Feeding Chatbots]]
 - [[Conventions & Guidelines/Animations\|Animations]]
-- [[Conventions & Guidelines/Placeholders\|Placeholders]]
 - [[Concepts/Topics\|Topics]]
 
 
 Templates for [[Concepts/Topics]]:
-- [[Templates/Release Notes\|Release Notes]]
-- [[Templates/Overview Pages\|Overview Pages]]
-- [[Templates/Reference Articles\|Reference Articles]]
 - [[Templates/Tutorials\|Tutorials]]
 - [[Templates/Task Topics\|Task Topics]]
+- [[Templates/Release Notes\|Release Notes]]
+- [[Templates/Reference Articles\|Reference Articles]]
+- [[Templates/Overview Pages\|Overview Pages]]
 - [[Templates/How-to Articles\|How-to Articles]]
 - [[Templates/Concept Topics\|Concept Topics]]
 

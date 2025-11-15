@@ -1,9 +1,9 @@
 ---
-{"publish":true,"permalink":"/Concepts/Columbo Technique for Writers.md","created":"2025-10-21T15:26:08.310+02:00","modified":"2025-10-21T15:31:33.347+02:00","published":"2025-10-21T15:31:33.347+02:00","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Columbo Technique for Writers.md","created":"2025-10-21T15:26:08.310+02:00","modified":"2025-11-07T15:28:58.284+01:00","published":"2025-11-07T15:28:58.284+01:00","cssclasses":""}
 ---
 
 
-The Columbo Technique is a non-confrontational conversation strategy. "Columbo" refers to Lt. Columbo from the famous TV crime series. Lt. Columbousually starts conversations with casual open questions, just to put the other person at ease and get them freely talking.
+The Columbo Technique is a non-confrontational conversation strategy. "Columbo" refers to Lt. Columbo from the famous TV crime series. Lt. Columbo usually starts conversations with casual open questions, just to put the other person at ease and get them freely talking.
 
 In context of technical writing it refers to a way of extracting information from subject-matter experts (SMEs). Source: https://passo.uno/the-columbo-technique-for-technical-writers/
 
