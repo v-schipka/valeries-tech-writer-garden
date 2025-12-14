@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/index.md","title":"Welcome 🌱","created":"2025-06-25T20:41:53.000+02:00","modified":"2025-12-14T11:32:29.697+01:00","published":"2025-12-14T11:32:29.697+01:00","cssclasses":""}
+{"publish":true,"permalink":"/index.md","title":"Welcome 🌱","created":"2025-06-25T20:41:53.000+02:00","modified":"2025-12-14T11:40:46.871+01:00","published":"2025-12-14T11:40:46.871+01:00","cssclasses":""}
 ---
 
 This is a growing collection of notes, insights, and experiments on technical writing in the docs-as-code ecosystem. Here, I explore tools, workflows, and best practices that bridge documentation and development - from version control and static site generators to continuous documentation and content automation.  
@@ -14,16 +14,16 @@ This is a growing collection of notes, insights, and experiments on technical wr
 Recently Modified:
 - [[index\|index]]
 - [[Static Site Generators/Quartz 4\|Quartz 4]]
-- [[Articles/Docs/In-Product Learning How Documentation Can Actually Teach\|In-Product Learning How Documentation Can Actually Teach]]
-- [[Articles/PKM/Craft Docs The digital home where your notes finally work for you - 9to5Mac\|Craft Docs The digital home where your notes finally work for you - 9to5Mac]]
-- [[Articles/AI/Best AI Article Writer for Documentation Sites Autoblogging.ai\|Best AI Article Writer for Documentation Sites Autoblogging.ai]]
+- [[Concepts/Interactive Infographics\|Interactive Infographics]]
+- [[Concepts/Interactive Documentation\|Interactive Documentation]]
+- [[Concepts/Documentation Laws\|Documentation Laws]]
 
 Recently Created:
-- [[Articles/Docs/In-Product Learning How Documentation Can Actually Teach\|In-Product Learning How Documentation Can Actually Teach]]
-- [[Articles/PKM/Craft Docs The digital home where your notes finally work for you - 9to5Mac\|Craft Docs The digital home where your notes finally work for you - 9to5Mac]]
-- [[Articles/AI/Best AI Article Writer for Documentation Sites Autoblogging.ai\|Best AI Article Writer for Documentation Sites Autoblogging.ai]]
 - [[Concepts/In-Product Learning\|In-Product Learning]]
 - [[Concepts/Microbreaks for the Brain\|Microbreaks for the Brain]]
+- [[Concepts/Documentation Laws\|Documentation Laws]]
+- [[Concepts/Interactive Infographics\|Interactive Infographics]]
+- [[Concepts/Interactive Documentation\|Interactive Documentation]]
 
 ---
 ## Content
