@@ -28,27 +28,32 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#712bc1",
-          tertiary: "#a57dd1",
-          highlight: "#64359929",
-          textHighlight: "#9437ff57",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#a85dfd",
-          tertiary: "#cb9cff",
-          highlight: "#64359929",
-          textHighlight: "#9437ff57",
+          lightMode: {
+              light: "#f8fafc",        // slate-50
+              lightgray: "#e2e8f0",    // slate-200
+              gray: "#94a3b8",         // slate-400
+              darkgray: "#475569",     // slate-600
+              dark: "#0f172a",         // slate-900
+
+              secondary: "#0891b2",    // cyan-600 (main accent)
+              tertiary: "#67e8f9",     // cyan-300 (soft accent)
+
+              highlight: "#0891b229",  // subtle cyan background
+              textHighlight: "#0891b257",
+          },
+
+          darkMode: {
+              light: "#1f2937",        // slate-800 (matches your body bg)
+              lightgray: "#374151",    // slate-700
+              gray: "#6b7280",         // slate-500
+              darkgray: "#cbd5e1",     // slate-300 (main text)
+              dark: "#e5e7eb",         // slate-200
+
+              secondary: "#22d3ee",    // cyan-400 (pops on dark bg)
+              tertiary: "#67e8f9",     // cyan-300
+
+              highlight: "#0891b229",
+              textHighlight: "#22d3ee57",
         },
       },
     },
