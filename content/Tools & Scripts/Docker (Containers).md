@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Docker (Containers).md","created":"2025-12-23T21:27:55.858+01:00","modified":"2025-12-23T21:35:24.230+01:00","published":"2025-12-23T21:35:24.230+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Docker (Containers).md","created":"2025-12-23T21:27:55.858+01:00","modified":"2025-12-29T19:54:09.274+01:00","published":"2025-12-29T19:54:09.274+01:00","cssclasses":""}
 ---
 
 [Docker](https://www.docker.com/) is an open-source platform that enables developers to build, deploy, run, update and manage containers. Containers are executable, self-contained components. They combine application source code with the operating system (OS) libraries and dependencies required to run that code in any environment.
@@ -11,6 +11,10 @@ Containers include:
 -   basic OS components needed to run it
 
 All of this is bundled into a container image, that can be started anywhere that supports containers.
+
+Basically:
+- A Docker image is a template (the recipe).
+- A container is a running instance of that image (the actual food).
 
 Resources:
 - [Docker Reference](https://docs.docker.com/reference/)
