@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Vale.md","created":"2025-08-24T12:06:44.950+02:00","modified":"2025-08-24T12:06:44.950+02:00","published":"2025-08-24T12:06:44.950+02:00","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Vale.md","created":"2025-08-24T12:06:44.950+02:00","modified":"2026-01-04T18:22:39.755+01:00","published":"2026-01-04T18:22:39.755+01:00","cssclasses":""}
 ---
 
 
@@ -11,6 +11,7 @@ It enforces style guides and integrates into CI/CD alongside [[Static Site Gener
 - [Vale Documentation](https://vale.sh/docs)
 - [Vale Config Generator](https://vale.sh/generator)
 - [Vale Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ChrisChinchilla.vale-vscode)
+- [Vale MCP Server](https://github.com/ChrisChinchilla/Vale-MCP)
 
 ## Setup
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Docker (Containers).md","created":"2025-12-23T21:27:55.858+01:00","modified":"2025-12-29T19:54:09.274+01:00","published":"2025-12-29T19:54:09.274+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Docker (Containers).md","created":"2025-12-23T21:27:55.858+01:00","modified":"2026-01-04T18:24:50.503+01:00","published":"2026-01-04T18:24:50.503+01:00","cssclasses":""}
 ---
 
 [Docker](https://www.docker.com/) is an open-source platform that enables developers to build, deploy, run, update and manage containers. Containers are executable, self-contained components. They combine application source code with the operating system (OS) libraries and dependencies required to run that code in any environment.
@@ -19,6 +19,8 @@ Basically:
 Resources:
 - [Docker Reference](https://docs.docker.com/reference/)
 - [Docker Documentation](https://docs.docker.com/)
+- [YouTube Video: Automated CI with Jenkins on Docker to Build Docker Images](https://www.youtube.com/watch?v=OkiMH4St1cQ)
+- [# Docker for Beginners: A Step-by-Step Guide to Containers](https://medium.com/@nishamishra1017/docker-for-beginners-a-step-by-step-guide-to-containers-f2b91cb978a5)
 
 ## Containers in Docs-as-Code
 
@@ -46,10 +48,11 @@ Advantages:
 
 ### CI/CD Integration (Automated Docs)
 
-Containers are commonly used in pipelines:
--   GitHub Actions
--   GitLab CI
--   Azure DevOps 
+Docker images are commonly used in pipelines:
+- GitHub Actions
+- GitLab CI
+- Azure DevOps 
+- Jenkins
 
 Example steps:
 1.  Pull repository
