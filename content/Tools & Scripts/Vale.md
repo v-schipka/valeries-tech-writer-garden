@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/Vale.md","created":"2025-08-24T12:06:44.950+02:00","modified":"2026-01-04T18:22:39.755+01:00","published":"2026-01-04T18:22:39.755+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/Vale.md","created":"2025-08-24T12:06:44.950+02:00","modified":"2026-01-06T10:49:59.710+01:00","published":"2026-01-06T10:49:59.710+01:00","cssclasses":""}
 ---
 
 
@@ -125,4 +125,13 @@ action:
   name: remove
 tokens:
   - '...'
+```
+- Keep paragraphs short
+```
+extends: substitution
+message: "Paragraphs should not exceed 5 sentences."
+level: warning
+swap:
+  # Match any paragraph containing at least 6 sentence-ending punctuation marks
+  '(?s)(?:^|\n\n)([^.\n!?]*[.!?]){6,}': ''
 ```
