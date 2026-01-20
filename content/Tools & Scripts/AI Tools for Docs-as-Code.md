@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Tools & Scripts/AI Tools for Docs-as-Code.md","created":"2025-06-25T21:24:32.298+02:00","modified":"2025-06-26T20:58:52.784+02:00","published":"2025-06-26T20:58:52.784+02:00","cssclasses":""}
+{"publish":true,"permalink":"/Tools & Scripts/AI Tools for Docs-as-Code.md","created":"2025-06-25T21:24:32.298+02:00","modified":"2026-01-20T20:56:54.909+01:00","published":"2026-01-20T20:56:54.909+01:00","cssclasses":""}
 ---
 
 
@@ -21,3 +21,10 @@ Aikidocs is a tool that sends contextual prompts to an LLM of your choice. It co
 
 Link: https://github.com/theletterf/aikidocs
 More information: https://passo.uno/build-tech-writing-tools-llms/
+
+## Walkthrough Kit for React Components
+ 
+ Walkthrough Kit is a CLI tool that creates React Components for walkthroughs (step-by-step guides) inside your documentation.
+
+Link: https://github.com/caseyrfsmith/walkthrough-kit
+More information: https://caseyrfsmith.github.io/walkthrough-kit/guide/
