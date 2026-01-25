@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/Interactive Infographics.md","created":"2025-12-12T21:32:18.725+01:00","modified":"2026-01-25T18:39:58.476+01:00","published":"2026-01-25T18:39:58.476+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/Interactive Infographics.md","created":"2025-12-12T21:32:18.725+01:00","modified":"2026-01-25T18:40:52.738+01:00","published":"2026-01-25T18:40:52.738+01:00","cssclasses":""}
 ---
 
   
@@ -10,17 +10,17 @@ This section focuses on how to create interactive infogrphics for use in [[Stati
 
 ### JavaScript Libraries to Embed Into MkDocs Pages
 
-📊 Charts & Data Visualizations:
+📊 **Charts & Data Visualizations:**
  - Chart.js — simple, beginner-friendly, good for line/bar/pie charts
  - D3.js — powerful, used for complex custom infographics
 - Plotly.js — interactive, zoomable, hover tooltips built-in
 - ECharts — many interactive chart types
 
-🗺️ Maps
+🗺️ **Maps:**
 - Leaflet.js (open-source)
  - Mapbox GL JS (if you need fancier styling)
  
-📈 Timeline / Flow / Sankey / Network Graphs
+📈 **Timeline / Flow / Sankey / Network Graphs:**
 - Mermaid.js (already integrated in MkDocs Material)
 - D3.js
  - Cytoscape.js (network graphs)
