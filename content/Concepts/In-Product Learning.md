@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Concepts/In-Product Learning.md","created":"2025-12-12T21:51:59.938+01:00","modified":"2025-12-12T21:55:01.672+01:00","published":"2025-12-12T21:55:01.672+01:00","cssclasses":""}
+{"publish":true,"permalink":"/Concepts/In-Product Learning.md","created":"2025-12-12T21:51:59.938+01:00","modified":"2026-01-25T18:34:48.799+01:00","published":"2026-01-25T18:34:48.799+01:00","cssclasses":""}
 ---
 
 
@@ -9,10 +9,11 @@ Source: https://medium.com/@gideonbehrensmeyer/in-product-learning-how-documenta
 
 ## Why it Matters
 
-Nowadays learning is not happening by reading documentation, but somewhere else: inside the product.
+Nowadays learning is not happening by reading documentation, but somewhere else: inside the product. Examples:
+
 - Users learn what a feature does the moment they hover over a button.
 - They learn how to complete a flow the first time they see an in-app walkthrough.
-- They learn what changed from the release notes overlay they see when they log in after an update.
+- They learn what changed from the release notes they see when they log in after an update.
 
 As a result, the question for technical writers is no longer “How do I write better manuals?” but: "How do I design documentation as an in-product learning experience?"
 
