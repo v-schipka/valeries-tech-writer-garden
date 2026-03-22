@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/LLMs/LLMs.md","created":"2025-12-26T19:37:42.007+01:00","modified":"2025-12-26T19:54:17.166+01:00","published":"2025-12-26T19:54:17.166+01:00","cssclasses":""}
+{"publish":true,"permalink":"/LLMs/LLMs.md","created":"2025-12-26T19:37:42.007+01:00","modified":"2026-03-22T15:23:59.152+01:00","published":"2026-03-22T15:23:59.152+01:00","cssclasses":""}
 ---
 
 
@@ -33,8 +33,8 @@ Large language models (LLMs) are trained with machine learning on a vast amo
 │              APPLICATION INFRASTRUCTURE      │
 │   (direct calls OR MCP server – optional)    │
 └───────────────────────┬──────────────────────┘
-		                │
-		                ▼
+                        │
+                        ▼
 ┌──────────────────────────────────────────────┐
 │               DATA ACCESS LAYER              │
 │                                              │
@@ -51,8 +51,8 @@ Large language models (LLMs) are trained with machine learning on a vast amo
 │  │ Knowledge Graph │  → entities, relations  │
 │  └─────────────────┘                         │
 └──────────────────────────────────────────────┘
-		                │
-		                ▼
+                        │
+                        ▼
 ┌──────────────────────────────────────────────┐
 │               SOURCE OF TRUTH                │
 │         (Git repo, docs, configs)            │
